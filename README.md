@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EliaCinti
 - 👀 I’m interested in computer engineering, astrophysics, astrophotography
-- 🌱 I’m currently learning Java, SQL
+- 🌱 I’m currently learning Java, CSS, HTML and SQL
 
 <!---
 EliaCinti/EliaCinti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
