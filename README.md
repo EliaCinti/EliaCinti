@@ -9,7 +9,6 @@ I am currently completing my studies in Tor Vergata to achieve a Bachelor's degr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-
 ## Software Tools
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -20,13 +19,11 @@ I am currently completing my studies in Tor Vergata to achieve a Bachelor's degr
 
 ## Development Environments
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-27AE60?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/-DataGrip-8E44AD?style=for-the-badge&logo=datagrip&logoColor=white)
 ![CLion](https://img.shields.io/badge/-CLion-f50057?style=for-the-badge&logo=clion&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-27AE60?style=for-the-badge&logo=pycharm&logoColor=white)
-
-
 
 ## Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
