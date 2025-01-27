@@ -19,12 +19,14 @@ I am currently completing my studies in Tor Vergata to achieve a Bachelor's degr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Development Environments
-![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-27AE60?style=for-the-badge&logo=pycharm&logoColor=white)
-![CLion](https://img.shields.io/badge/-CLion-f50057?style=for-the-badge&logo=clion&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/-DataGrip-8E44AD?style=for-the-badge&logo=datagrip&logoColor=white)
+![CLion](https://img.shields.io/badge/-CLion-f50057?style=for-the-badge&logo=clion&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-27AE60?style=for-the-badge&logo=pycharm&logoColor=white)
+
+
 
 ## Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
