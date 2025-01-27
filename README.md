@@ -22,7 +22,7 @@ I am currently completing my studies in Tor Vergata to achieve a Bachelor's degr
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-27AE60?style=for-the-badge&logo=pycharm&logoColor=white)
-![CLion](https://img.shields.io/badge/CL-CLion-f50057?style=for-the-badge&logo=clion&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-64b5f6?style=for-the-badge&logo=clion&logoColor=white)
 
 ## Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
