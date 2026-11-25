@@ -1,28 +1,31 @@
 # Hi, I'm Elia Cinti 👋
 
 [![Website](https://img.shields.io/badge/eliacinti.dev-111111?style=for-the-badge&logo=safari&logoColor=white)](https://www.eliacinti.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cintielia21@gmail.com)
 [![eJPT Certified](https://img.shields.io/badge/eJPT-Certified-E31937?style=for-the-badge)](https://www.eliacinti.dev)
 
 ## About Me
 Computer Engineering student at **University of Rome "Tor Vergata"**, focused on the intersection of **Agentic AI** and **Cybersecurity**.
 
-I build autonomous multi-agent workflows, persistent memory architectures for LLMs, and automation pipelines. When I'm not breaking things in a lab or orchestrating AI agents, I'm tinkering with self-hosted infrastructure and smart home automation.
+I learn by building: multi-agent orchestration platforms with OS-level sandboxing, local-first persistent memory over MCP, and automated study pipelines.
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **Overmind** | AI agent orchestration platform designed for multi-tier computer-use autonomy and cross-app collaboration. | [eliacinti.dev/overmind](https://www.eliacinti.dev/overmind) |
-| **Engram** | Open-source Model Context Protocol (MCP) persistent memory server combining Markdown, SQLite, and local vector embeddings. | [engram.eliacinti.dev](https://engram.eliacinti.dev) |
-| **FeyNotes** | Automated Python pipeline that converts university lecture audio into structured LaTeX notes and web modules. | [eliacinti.dev](https://www.eliacinti.dev) |
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Overmind** | Open-source orchestration platform for teams of AI agents — featuring isolated git worktrees, deny-by-default OS sandboxing, budgets, hash-chained audit logs, and shared organizational memory. | Rust · React · MCP | [overmind.eliacinti.dev](https://overmind.eliacinti.dev) |
+| **Wadachi (轍)** | Local-first persistent memory server for AI agents over MCP. Combines plain Markdown, SQLite, local semantic embeddings, decision logs with rationale, and a typed knowledge graph. | Python · MCP · SQLite | [wadachi.eliacinti.dev](https://wadachi.eliacinti.dev) |
+| **FeyNotes** | Automated pipeline transforming university lecture audio into structured LaTeX notes, formulas, flashcards, and navigable web lessons. | Python · LaTeX · Web | [feynotes.eliacinti.dev](https://feynotes.eliacinti.dev) |
 
 ---
 
 ## 🧠 Agentic AI, LLMs & Data Science
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_&_Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-2B2D42?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -40,10 +43,12 @@ I build autonomous multi-agent workflows, persistent memory architectures for LL
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
-## 👨‍💻 Languages
+## 👨‍💻 Languages & Frameworks
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
